@@ -1,0 +1,23 @@
+.custom-btn {
+    margin: 10px;
+    width: 100%;
+}
+
+.custom-btn-zero {
+    width: 100%;
+    margin-left: 10px;
+}
+
+.custom-row {
+    width: 100%;
+}
+
+.btn-icon {
+    position: relative;
+    right: 30%;
+    margin-bottom: 4px;
+}
+
+.text-right {
+    text-align: right;
+}
